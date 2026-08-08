@@ -1,0 +1,6 @@
+{
+  "name": "Threes Game",
+  "description": "A complete, production-ready Threes! sliding puzzle game clone with smooth animations, touch support, and authentic deck and merging mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
